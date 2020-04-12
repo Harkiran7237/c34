@@ -1,11 +1,11 @@
 html, body {
-    margin: 0;
-    padding: 0;
+    margin: 113;
+    padding:110;
   }
   canvas{
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-top: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
     border: 2px solid black;
   }
   
